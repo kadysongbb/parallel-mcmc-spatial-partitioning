@@ -1,3 +1,5 @@
 # parallel-mcmc-spatial-partitioning
 
-Code for https://www.aaai.org/ocs/index.php/WS/AAAIW17/paper/viewPaper/15079
+Code for "Parallel Chromatic MCMC with Spatial Partitioning"
+
+https://www.aaai.org/ocs/index.php/WS/AAAIW17/paper/viewPaper/15079
